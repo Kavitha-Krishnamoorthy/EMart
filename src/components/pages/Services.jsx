@@ -1,0 +1,11 @@
+/* eslint-disable no-unused-vars */
+import React from 'react';
+import '../../App.css';
+
+function Services() {
+  return (
+    <h1 className='services'>KYC</h1>
+  )
+}
+
+export default Services
